@@ -306,8 +306,16 @@ h1{
         font-size: 5px;
     }
     
-    li > a{
-        font-size: 30%;
+    nav{
+        padding-left: 5%;
+    }
+
+    li a{
+        font-size: 0.5em;
+    }
+
+    .logo{
+        padding-top: 15%
     }
 
     .image1 > img{
@@ -335,36 +343,52 @@ h1{
     }
 }
 
-@media screen and (max-width: 768px){
+@media screen and (max-width: 480px){
     .languagebar{
-        font-size: 5px;
+        font-size: 4px;
+        display: inline;
     }
 
     li > a{
-        font-size: 40%;
+        font-size: 0.5em;
     }
 
     .image1 > img{
         width: 100vw;
     } 
 
+    .text1{
+        margin-left: 10%;
+        margin-right: 10%;
+        transform: translateY(20%);
+    }
+
     .text1 > p{
-        font-size: 9px;
+        font-size: 3px;
     }
 
     .text2 > p{
-        font-size: 9px;
+        font-size: 3px;
     }
 
     .p1, .p2, .footerp{
-        font-size: 9px;
+        font-size: 3px;
     }
 
     .button4{
-        font-size: 5px;
+        font-size: 4px;
     }
 
     h1, h2{
-        font-size: 40%;
+        font-size: 0.5em;
+    }
+
+    .first h2, .second h2, .third h2, .forth h2 {
+        font-size: 0.4em;
+        font-weight: 500;
+    }
+    
+    .first p, .second p, .third p, .forth p {
+        font-size: 4px;
     }
 }
