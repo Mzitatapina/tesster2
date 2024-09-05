@@ -266,3 +266,17 @@ ul li:hover > .dropdown {
         margin: 0% 5% 5% 15%;
     }
 }
+
+@media screen and(max-width: 768px) {
+    nav{
+        padding-left: 5%;
+    }
+  
+    li a{
+        font-size: 0.5em;
+    }
+
+    .logo{
+        padding-top: 15%
+    }
+}
