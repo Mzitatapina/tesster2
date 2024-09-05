@@ -283,15 +283,15 @@ ul li:hover > .dropdown {
     }
     
     nav{
-        padding-left: 5%;
+        padding-left: 10%;
     }
   
     li a{
-        font-size: 0.1em;
+        font-size: 0.5em;
     }
 
     .logo{
-        padding-top: 10%
+        padding-top: 5%;
     }
 
     .p1, .p2{
@@ -317,5 +317,24 @@ ul li:hover > .dropdown {
 
     .info1 p, .info2 p{
         font-size: 4px;
+    }
+}
+
+@media screen and (max-width: 480px) {
+    .languagebar{
+        display: inline;
+        font-size: 3px;
+    }
+    
+    nav{
+        padding-left: 5%;
+    }
+  
+    li a{
+        font-size: 0.3em;
+    }
+
+    .logo{
+        padding-top: 5%;
     }
 }
