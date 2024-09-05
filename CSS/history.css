@@ -315,7 +315,7 @@ h1{
     }
 
     .logo{
-        padding-top: 15%
+        padding-top: 3%;
     }
 
     .image1 > img{
@@ -345,7 +345,7 @@ h1{
 
 @media screen and (max-width: 480px){
     .languagebar{
-        font-size: 4px;
+        font-size: 5px;
         display: inline;
     }
 
@@ -364,15 +364,15 @@ h1{
     }
 
     .text1 > p{
-        font-size: 3px;
+        font-size: 4px;
     }
 
     .text2 > p{
-        font-size: 3px;
+        font-size: 4px;
     }
 
     .p1, .p2, .footerp{
-        font-size: 3px;
+        font-size: 4px;
     }
 
     .button4{
@@ -384,7 +384,7 @@ h1{
     }
 
     .first h2, .second h2, .third h2, .forth h2 {
-        font-size: 0.4em;
+        font-size: 0.5em;
         font-weight: 500;
     }
     
