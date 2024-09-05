@@ -268,6 +268,20 @@ ul li:hover > .dropdown {
 }
 
 @media screen and(max-width: 768px) {
+    
+    html, body{
+        margin: 0;
+        padding: 0;
+        box-sizing: border-box;
+        height: 100vh;
+        width: 100vw;
+    }
+
+    .languagebar{
+        display: inline;
+        font-size: 3px;
+    }
+    
     nav{
         padding-left: 5%;
     }
