@@ -303,11 +303,12 @@ h1{
 
 @media screen and (max-width: 768px){
     .languagebar{
-        font-size: 5px;
+        font-size: 3px;
+        padding-top: 3%;
     }
     
     nav{
-        padding-left: 5%;
+        padding-left: 0;
     }
 
     li a{
@@ -318,16 +319,24 @@ h1{
         padding-top: 3%;
     }
 
+    .dropdowna{
+        font-size: 0.4em;
+    }
+    
+    .dropdownb{
+        font-size: 0.4em;
+    }
+
     .image1 > img{
         width: 100vw;
     } 
 
     .text1 > p{
-        font-size: 9px;
+        font-size: 5px;
     }
 
     .text2 > p{
-        font-size: 9px;
+        font-size: 5px;
     }
 
     .p1, .p2, .footerp{
@@ -339,22 +348,35 @@ h1{
     }
 
     h1, h2{
-        font-size: 20%;
+        font-size: 0.5em;
     }
 }
 
 @media screen and (max-width: 480px){
     .languagebar{
-        font-size: 5px;
+        font-size: 3px;
         display: inline;
+        padding-top: 5%;
     }
 
     .logo{
-        padding-top: 5%;
+        padding-top: 6%;
     }
 
     li > a{
         font-size: 0.5em;
+    }
+
+    nav{
+        padding-left: 0;
+    }
+
+    .dropdowna{
+        font-size: 0.4em;
+    }
+    
+    .dropdownb{
+        font-size: 0.4em;
     }
 
     .image1 > img{
@@ -364,7 +386,7 @@ h1{
     .text1{
         margin-left: 10%;
         margin-right: 10%;
-        transform: translateY(20%);
+        transform: translateY(25%);
     }
 
     .text1 > p{
@@ -393,6 +415,6 @@ h1{
     }
     
     .first p, .second p, .third p, .forth p {
-        font-size: 4px;
+        font-size: 3px;
     }
 }
