@@ -347,6 +347,14 @@ ul li:hover > .dropdown {
 
 
 @media screen and (max-width: 768px) {
+    
+    html, body{
+        margin: 0;
+        padding: 0;
+        box-sizing: border-box;
+        overflow: hidden;
+    }
+
 
     .logo{
         height: 50%;
@@ -368,5 +376,38 @@ ul li:hover > .dropdown {
 
     ul{
         padding-left: 2%;
+    }
+
+    .slider-container{
+        position: relative;
+    }
+
+    .sliderbackground{
+        width: 100%;
+
+    }
+
+    .prev, .next{
+        padding: 0;
+    }
+
+    h1{
+        font-size: 0.4em;
+    }
+
+    h2{
+        font-size: 0.5em;
+    }
+
+    .productdescription p{
+        font-size: 3px;
+    }
+
+    .p1, .p2{
+        font-size: 3px;
+    }
+
+    .products{
+        margin-top: 10%;
     }
 }
