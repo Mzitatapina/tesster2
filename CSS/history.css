@@ -349,6 +349,10 @@ h1{
         display: inline;
     }
 
+    .logo{
+        padding-top: 5%;
+    }
+
     li > a{
         font-size: 0.5em;
     }
