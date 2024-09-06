@@ -343,12 +343,12 @@ ul li:hover > .dropdown {
     
     .languagebar{
         display: inline;
-        font-size: 3px;
+        font-size: 2px;
         padding-top: 3%;
     }
     
     nav{
-        padding-left: 3%;
+        padding-left: 0;
     }
   
     li a{
@@ -373,8 +373,8 @@ ul li:hover > .dropdown {
     }
 
     .image1 img{
-        margin-top: 50%;
-        margin-left: 25%;
+        margin-top: 20%;
+        margin-left: 15%;
         margin-bottom: 5%;
         max-width: 70vw;
     }
