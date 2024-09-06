@@ -389,13 +389,18 @@ ul li:hover > .dropdown {
     }
 
     .image1 img{
-        margin-top: 15%;
+        margin-top: 5%;
         margin-left: 15%;
         margin-bottom: 5%;
         max-width: 70vw;
     }
 
-    .image1 h1, .statistics h1{
+    .image1 h1 {
+        padding-top: 7%;
+        font-size: 6px;
+    }
+
+    .statistics h1{
         font-size: 6px;
     }
 
@@ -404,7 +409,7 @@ ul li:hover > .dropdown {
     }
 
     .secondpart img{
-        height: 110%;
+        height: 120%;
     }
 
     .info1 h1, .info2 h1{
