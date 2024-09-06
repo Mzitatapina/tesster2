@@ -296,6 +296,11 @@ ul li:hover > .dropdown {
 
     .firstpart{
         max-width: 100vw;
+        display: block;
+    }
+
+    .firstpart img{
+        display: none;
     }
 
     .p1, .p2{
@@ -344,5 +349,10 @@ ul li:hover > .dropdown {
 
     .firstpart{
         max-width: 100vw;
+        display: block;
+    }
+
+    .firstpart img{
+        display: none;
     }
 }
