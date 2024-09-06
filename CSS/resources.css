@@ -299,7 +299,7 @@ ul li:hover > .dropdown {
         display: block;
     }
 
-    .firstpart img{
+    .firstimage{
         display: none;
     }
 
@@ -325,7 +325,7 @@ ul li:hover > .dropdown {
     }
 
     .info1 p, .info2 p{
-        font-size: 4px;
+        font-size: 3px;
     }
 }
 
@@ -352,7 +352,32 @@ ul li:hover > .dropdown {
         display: block;
     }
 
-    .firstpart img{
+    .firstimage{
         display: none;
+    }
+
+    .p1, .p2{
+        font-size: 3px;
+    }
+
+    .image1 img{
+        margin: 0% 5% 5% 5%;
+        max-width: 50vw;
+    }
+
+    .image1 h1, .statistics h1{
+        font-size: 6px;
+    }
+
+    .statistics p {
+        font-size: 4px;
+    }
+
+    .info1 h1, .info2 h1{
+        font-size: 6px;
+    }
+
+    .info1 p, .info2 p{
+        font-size: 3px;
     }
 }
