@@ -294,6 +294,10 @@ ul li:hover > .dropdown {
         padding-top: 5%;
     }
 
+    .firstpart{
+        max-width: 100vw;
+    }
+
     .p1, .p2{
         font-size: 3px;
     }
@@ -336,5 +340,9 @@ ul li:hover > .dropdown {
 
     .logo{
         padding-top: 5%;
+    }
+
+    .firstpart{
+        max-width: 100vw;
     }
 }
