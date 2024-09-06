@@ -389,7 +389,7 @@ ul li:hover > .dropdown {
     }
 
     .image1 img{
-        margin-top: 20%;
+        margin-top: 15%;
         margin-left: 15%;
         margin-bottom: 5%;
         max-width: 70vw;
@@ -400,11 +400,15 @@ ul li:hover > .dropdown {
     }
 
     .statistics p {
-        font-size: 3px;
+        font-size: 2px;
+    }
+
+    .secondpart img{
+        height: 110%;
     }
 
     .info1 h1, .info2 h1{
-        font-size: 6px;
+        font-size: 5px;
     }
 
     .info1 p, .info2 p{
