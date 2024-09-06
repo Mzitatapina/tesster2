@@ -354,13 +354,12 @@ h1{
 
 @media screen and (max-width: 480px){
     .languagebar{
-        font-size: 3px;
+        font-size: 5px;
         display: inline;
-        padding-top: 15%;
     }
 
     .logo{
-        padding-top: 10%;
+        padding-top: 20%;
     }
 
     li > a{
@@ -369,6 +368,10 @@ h1{
 
     nav{
         padding-left: 0;
+    }
+
+    ul{
+        padding-left: 2%;
     }
 
     .dropdowna{
