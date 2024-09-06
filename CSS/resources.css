@@ -343,12 +343,12 @@ ul li:hover > .dropdown {
     
     .languagebar{
         display: inline;
-        font-size: 4px;
-        padding-top: 2%;
+        font-size: 3px;
+        padding-top: 3%;
     }
     
     nav{
-        padding-left: 5%;
+        padding-left: 3%;
     }
   
     li a{
@@ -356,7 +356,7 @@ ul li:hover > .dropdown {
     }
 
     .logo{
-        padding-top: 5%;
+        padding-top: 6%;
     }
 
     .firstpart{
@@ -373,9 +373,10 @@ ul li:hover > .dropdown {
     }
 
     .image1 img{
+        margin-top: 50%;
         margin-left: 25%;
         margin-bottom: 5%;
-        max-width: 50vw;
+        max-width: 70vw;
     }
 
     .image1 h1, .statistics h1{
@@ -383,7 +384,7 @@ ul li:hover > .dropdown {
     }
 
     .statistics p {
-        font-size: 4px;
+        font-size: 3px;
     }
 
     .info1 h1, .info2 h1{
@@ -391,6 +392,6 @@ ul li:hover > .dropdown {
     }
 
     .info1 p, .info2 p{
-        font-size: 4px;
+        font-size: 3px;
     }
 }
