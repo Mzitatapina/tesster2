@@ -285,7 +285,11 @@ ul li:hover > .dropdown {
     }
     
     nav{
-        padding-left: 5%;
+        padding-left: 0;
+    }
+
+    ul{
+        padding-left: 2%;
     }
   
     li a{
@@ -293,7 +297,9 @@ ul li:hover > .dropdown {
     }
 
     .logo{
-        padding-top: 10%;
+        padding-top: 25%;
+        width: 50%;
+        height: 50%;
     }
 
     .dropdowna{
@@ -318,14 +324,14 @@ ul li:hover > .dropdown {
     }
 
     .image1 img{
-        margin-top: 5%;
+        margin-top: 15%;
         margin-left: 15%;
-        margin-bottom: 5%;
+        margin-bottom: 10%;
         max-width: 70vw;
     }
 
     .image1 h1 {
-        padding-top: 7%;
+        padding-top: 20%;
         font-size: 6px;
     }
 
@@ -369,12 +375,18 @@ ul li:hover > .dropdown {
         padding-left: 0;
     }
   
+    ul{
+        padding-left: 2%;
+    }
+
     li a{
         font-size: 0.3em;
     }
 
     .logo{
-        padding-top: 10%;
+        padding-top: 25%;
+        width: 50%;
+        height: 50%;
     }
 
     .dropdowna{
@@ -395,18 +407,18 @@ ul li:hover > .dropdown {
     }
 
     .p1, .p2{
-        font-size: 4px;
+        font-size: 6px;
     }
 
     .image1 img{
-        margin-top: 5%;
+        margin-top: 15%;
         margin-left: 15%;
-        margin-bottom: 5%;
+        margin-bottom: 10%;
         max-width: 70vw;
     }
 
     .image1 h1 {
-        padding-top: 7%;
+        padding-top: 20%;
         font-size: 6px;
     }
 
@@ -419,7 +431,7 @@ ul li:hover > .dropdown {
     }
 
     .secondpart img{
-        height: 120%;
+        height: 35vh;
     }
 
     .info1 h1, .info2 h1{
