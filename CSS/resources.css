@@ -351,8 +351,7 @@ ul li:hover > .dropdown {
     
     .languagebar{
         display: inline;
-        font-size: 2px;
-        padding-top: 3%;
+        font-size: 5px;
     }
     
     nav{
@@ -364,7 +363,7 @@ ul li:hover > .dropdown {
     }
 
     .logo{
-        padding-top: 6%;
+        padding-top: 10%;
     }
 
     .dropdowna{
