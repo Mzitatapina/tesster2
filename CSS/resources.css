@@ -263,7 +263,8 @@ ul li:hover > .dropdown {
 
 @media screen and (max-width: 1200px) {
     .image1 img{
-        margin: 0% 5% 5% 20%;
+        margin-left: 40%;
+        margin-bottom: 5%;
     }
 }
 
@@ -275,15 +276,16 @@ ul li:hover > .dropdown {
         box-sizing: border-box;
         height: 100vh;
         width: 100vw;
+        overflow: hidden;
     }
 
     .languagebar{
         display: inline;
-        font-size: 3px;
+        font-size: 4px;
     }
     
     nav{
-        padding-left: 10%;
+        padding-left: 5%;
     }
   
     li a{
@@ -330,9 +332,19 @@ ul li:hover > .dropdown {
 }
 
 @media screen and (max-width: 480px) {
+    html, body{
+        margin: 0;
+        padding: 0;
+        box-sizing: border-box;
+        height: 100vh;
+        width: 100vw;
+        overflow: hidden;
+    }
+    
     .languagebar{
         display: inline;
-        font-size: 3px;
+        font-size: 4px;
+        padding-top: 2%;
     }
     
     nav{
@@ -357,11 +369,12 @@ ul li:hover > .dropdown {
     }
 
     .p1, .p2{
-        font-size: 3px;
+        font-size: 4px;
     }
 
     .image1 img{
-        margin: 0% 5% 5% 5%;
+        margin-left: 25%;
+        margin-bottom: 5%;
         max-width: 50vw;
     }
 
@@ -378,6 +391,6 @@ ul li:hover > .dropdown {
     }
 
     .info1 p, .info2 p{
-        font-size: 3px;
+        font-size: 4px;
     }
 }
