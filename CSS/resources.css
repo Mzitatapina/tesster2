@@ -289,19 +289,19 @@ ul li:hover > .dropdown {
     }
   
     li a{
-        font-size: 0.2em;
+        font-size: 0.3em;
     }
 
     .logo{
-        padding-top: 5%;
+        padding-top: 10%;
     }
 
     .dropdowna{
-        font-size: 0.4em;
+        font-size: 0.5em;
     }
     
     .dropdownb{
-        font-size: 0.4em;
+        font-size: 0.5em;
     }
 
     .firstpart{
@@ -314,24 +314,35 @@ ul li:hover > .dropdown {
     }
 
     .p1, .p2{
-        font-size: 3px;
+        font-size: 4px;
     }
 
     .image1 img{
-        margin: 0% 5% 5% 5%;
-        max-width: 50vw;
+        margin-top: 5%;
+        margin-left: 15%;
+        margin-bottom: 5%;
+        max-width: 70vw;
     }
 
-    .image1 h1, .statistics h1{
+    .image1 h1 {
+        padding-top: 7%;
+        font-size: 6px;
+    }
+
+    .statistics h1{
         font-size: 6px;
     }
 
     .statistics p {
-        font-size: 4px;
+        font-size: 2px;
+    }
+
+    .secondpart img{
+        height: 120%;
     }
 
     .info1 h1, .info2 h1{
-        font-size: 6px;
+        font-size: 5px;
     }
 
     .info1 p, .info2 p{
