@@ -356,15 +356,15 @@ h1{
     .languagebar{
         font-size: 3px;
         display: inline;
-        padding-top: 5%;
+        padding-top: 15%;
     }
 
     .logo{
-        padding-top: 6%;
+        padding-top: 10%;
     }
 
     li > a{
-        font-size: 0.5em;
+        font-size: 0.1em;
     }
 
     nav{
@@ -372,11 +372,11 @@ h1{
     }
 
     .dropdowna{
-        font-size: 0.4em;
+        font-size: 0.5em;
     }
     
     .dropdownb{
-        font-size: 0.4em;
+        font-size: 0.5em;
     }
 
     .image1 > img{
