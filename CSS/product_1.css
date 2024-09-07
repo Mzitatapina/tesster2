@@ -465,11 +465,11 @@ section{
     }
 
     .dropdowna{
-        font-size: 0.7em;
+        font-size: 0.9em;
     }
     
     .dropdownb{
-        font-size: 0.7em;
+        font-size: 0.9em;
     }
 
     .ProductBackground img{
@@ -503,6 +503,10 @@ section{
 
     h4{
         font-size: 30%;
+    }
+
+    .ModalButton h4{
+        font-size: 0.4em;
     }
 
     .ModalButton p{
