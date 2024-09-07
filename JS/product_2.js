@@ -80,10 +80,17 @@ addOpenModalListener("openModalBtn3.1", "productModal3.1");
 addOpenModalListener("openModalBtn3.2", "productModal3.2");
 addOpenModalListener("openModalBtn3.3", "productModal3.3");
 addOpenModalListener("openModalBtn4", "productModal4");
+addOpenModalListener("openModalBtn4.1", "productModal4.1");
+addOpenModalListener("openModalBtn4.2", "productModal4.2");
+addOpenModalListener("openModalBtn4.3", "productModal4.3");
 addOpenModalListener("openModalBtn5", "productModal5");
+addOpenModalListener("openModalBtn5.1", "productModal5.1");
+addOpenModalListener("openModalBtn5.2", "productModal5.2");
+addOpenModalListener("openModalBtn5.3", "productModal5.3");
 addOpenModalListener("openModalBtn6", "productModal6");
-addOpenModalListener("openModalBtn7", "productModal7");
-addOpenModalListener("openModalBtn8", "productModal8");
+addOpenModalListener("openModalBtn6.1", "productModal6.1");
+addOpenModalListener("openModalBtn6.2", "productModal6.2");
+addOpenModalListener("openModalBtn6.3", "productModal6.3");
 
 
 
