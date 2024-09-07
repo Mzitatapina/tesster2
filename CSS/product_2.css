@@ -191,7 +191,7 @@ section{
 }
 
 
-.products1{
+.products1, .products2{
     display: flex;
     flex-direction: row;
     justify-content: space-between;
