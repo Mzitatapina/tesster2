@@ -487,7 +487,10 @@ section{
 
     .premium, .classic{
         max-width: 100vw;
+        margin-left: 10%;
+        margin-right: 10%;
     }
+
 
     h1{
         font-size: 60%;
@@ -503,6 +506,10 @@ section{
 
     h4{
         font-size: 30%;
+    }
+
+    .ModalButton{
+        width: 25%;
     }
 
     .ModalButton h4{
