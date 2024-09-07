@@ -452,8 +452,10 @@ section{
         font-size: xx-small;
     }
 
-    .premium, .classic{
+    .products{
         max-width: 100vw;
+        margin-left: 5%;
+        margin-right: 5%;
     }
 
     h1{
@@ -472,8 +474,16 @@ section{
         font-size: 30%;
     }
 
+    .ModalButton{
+        width: 24%;
+    }
+
+    .ModalButton h4{
+        font-size: 0.1em;
+    }
+
     .ModalButton p{
-        font-size: 3px;
+        font-size: 1px;
     }
 
     .AboutProduct, .AboutProduct2{
