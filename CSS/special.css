@@ -378,12 +378,19 @@ ul li:hover > .dropdown {
     }
 
     .slider-container{
-        position: relative;
+        position: absolute;
+        margin-bottom: 0;
+        height: 120%;
     }
 
     .sliderbackground{
         width: 100%;
 
+    }
+
+    .products{
+        transform: translateY(50vh);
+        height: 30vh;
     }
 
     .prev, .next{
