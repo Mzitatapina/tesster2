@@ -225,13 +225,38 @@ section{
 #openModalBtn1_1, #openModalBtn1_2, #openModalBtn1_3, #openModalBtn2_1, #openModalBtn2_2, #openModalBtn2_3,
 #openModalBtn3_1, #openModalBtn3_2, #openModalBtn3_3, #openModalBtn4_1, #openModalBtn4_2, #openModalBtn4_3
 #openModalBtn5_1, #openModalBtn5_2, #openModalBtn5_3, #openModalBtn6_1, #openModalBtn6_2, #openModalBtn6_3{
-    display: flex;
+    display: grid;
+    grid-template-columns: 30% 70%;
+    width: 70%;
+    height: 80%;
+    align-items: center;
 }
+
+
 
 #openModalBtn1, #openModalBtn2, #openModalBtn3, #openModalBtn4, #openModalBtn5, #openModalBtn6{
     width: 70%;
     height: auto;
 }
+
+.buttonimg{
+    width: 100%;
+    height: 70%;
+    object-fit: contain;
+    padding: 0;
+}
+
+.container h4{
+    line-height: 1;
+    text-align: left;
+    text-transform: capitalize;
+
+}
+
+.container p{
+    text-align: left;
+}
+
 /* The Modal (background) */
 .modal {
     display: none; 
