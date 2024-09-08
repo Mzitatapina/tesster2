@@ -1,3 +1,4 @@
+@import url("//cdn.web-fonts.ge/fonts/dejavu-sans-condensed/css/dejavu-sans-condensed.min.css");
 @import url('https://fonts.googleapis.com/css2?family=Krub:ital,wght@0,200;0,300;0,400;0,500;0,600;0,700;1,200;1,300;1,400;1,500;1,600;1,700&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Playfair+Display:ital,wght@0,400..900;1,400..900&display=swap');
 @font-face {
@@ -18,14 +19,14 @@ html, body{
 
 h1, h4{
     text-transform: uppercase;
-    font-family: 'play fair';
+    font-family: 'DejaVu Sans Condensed';
     line-height: 0%;
     color: #101010;
 }
 
 
 p{
-    font-family: 'krub', sans-serif;
+    font-family: 'DejaVu Sans Condensed', sans-serif;
     font-size: smaller;
     color: #545454;
 }
@@ -83,7 +84,7 @@ li{
 }
 
 a{
-    font-family: 'Albertus Medium';
+    font-family: 'DejaVu Sans Condensed';
     text-transform: uppercase;
     text-decoration: none;
     color:  #4E4E4E;  
@@ -321,7 +322,7 @@ section{
 
 .productDescreption > h1{
     text-align: left;
-    font-family: 'Playfair Display';
+    font-family: 'DejaVu Sans Condensed';
     font-weight: 100;
     color: #101010;
     font-size: 36px;
@@ -330,7 +331,7 @@ section{
     
 
 #product1{
-    font-family: 'Playfair Display';
+    font-family: 'DejaVu Sans Condensed';
     font-weight: 100;
     color: #545454;
     text-align: left;
@@ -341,7 +342,7 @@ section{
 
 .productDescreption > p{
     text-align: left;
-    font-family: 'krub';
+    font-family: 'DejaVu Sans Condensed';
     color:#545454;
     font-size: 14px;
     text-align: justify;
@@ -349,7 +350,7 @@ section{
 
 .productDescreption > h2{
     text-align: end;
-    font-family: 'Playfair Display';
+    font-family: 'DejaVu Sans Condensed';
     font-weight: 100;
     color: #101010;
 }
@@ -368,7 +369,7 @@ section{
 
 
 .footer p {
-    font-family: 'Krub';
+    font-family: 'DejaVu Sans Condensed';
     text-align: center;
     margin-bottom: 3%;
 }
@@ -389,7 +390,7 @@ section{
     border: 1px groove #FFFFFF;
     border-radius: 11.5%;
     padding: 0.5% 1.5%;
-    font-family: 'Albertus Medium';
+    font-family: 'DejaVu Sans Condensed';
     font-weight: 100;
     font-size: 15px;
     text-transform: uppercase;
@@ -432,7 +433,7 @@ section{
 }
 
 .first p, .second p, .third p, .forth p {
-    font-family: 'Albertus Medium';
+    font-family: 'DejaVu Sans Condensed';
     color: #FFFFFF;
     margin:0;
     padding: 0;
