@@ -246,15 +246,21 @@ section{
     padding: 0;
 }
 
+.container{
+    padding-top: 7%;
+}
+
 .container h4{
     line-height: 1;
     text-align: left;
     text-transform: capitalize;
+    margin-bottom: 0;
 
 }
 
 .container p{
     text-align: left;
+    margin-top: 0;
 }
 
 /* The Modal (background) */
