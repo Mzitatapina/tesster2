@@ -197,8 +197,7 @@ section{
     justify-content: space-between;
     text-align: center;
     align-items: center;
-    margin-left: 10%;
-    margin-right: 10%;
+    margin-left: 15%;
 }
 
 .set{
@@ -227,6 +226,11 @@ section{
 #openModalBtn3_1, #openModalBtn3_2, #openModalBtn3_3, #openModalBtn4_1, #openModalBtn4_2, #openModalBtn4_3
 #openModalBtn5_1, #openModalBtn5_2, #openModalBtn5_3, #openModalBtn6_1, #openModalBtn6_2, #openModalBtn6_3{
     display: flex;
+}
+
+#openModalBtn1, #openModalBtn2, #openModalBtn3, #openModalBtn4, #openModalBtn5, #openModalBtn6{
+    width: 70%;
+    height: auto;
 }
 /* The Modal (background) */
 .modal {
