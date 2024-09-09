@@ -99,7 +99,7 @@ li{
 }
 
 a{
-    font-family: 'Albertus Medium';
+    font-family: 'DejaVu Sans Condensed';
     text-transform: uppercase;
     text-decoration: none;
     color:  #4E4E4E;  
@@ -257,7 +257,7 @@ section{
 }
 
 h3{
-    font-family: 'Albertus Medium';
+    font-family: 'DejaVu Sans Condensed';
     text-transform: uppercase;
     font-weight: 900;
     color: #535353;
@@ -268,7 +268,7 @@ h3{
 }
 
 .experter > p{
-    font-family: 'krub';
+    font-family: 'DejaVu Sans Condensed';
     color: #7E7E7E;
     text-align: center;
     font-size: 9px;
@@ -277,14 +277,14 @@ h3{
 }
 
 h1{
-    font-family: 'Playfair Display';
+    font-family: 'DejaVu Sans Condensed';
     color: #424242;
     font-weight: 100;
     text-align: center;
 }
 
 .p1, .p2{
-    font-family: 'krub';
+    font-family: 'DejaVu Sans Condensed';
     color:#7E7E7E;
     text-align: center;
 }
