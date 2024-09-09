@@ -439,7 +439,7 @@ section{
 
 
 .footer p {
-    font-family: 'Krub';
+    font-family: 'DejaVu Sans Condensed';
     text-align: center;
     margin-bottom: 3%;
 }
@@ -503,7 +503,7 @@ section{
 }
 
 .first p, .second p, .third p, .forth p {
-    font-family: 'Albertus Medium';
+    font-family: 'DejaVu Sans Condensed';
     color: #FFFFFF;
     margin:0;
     padding: 0;
