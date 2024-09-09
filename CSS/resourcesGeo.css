@@ -70,7 +70,7 @@ li{
 }
 
 a{
-    font-family: 'Albertus Medium';
+    font-family: 'DejaVu Sans Condensed';
     text-transform: uppercase;
     text-decoration: none;
     color:  #4E4E4E;  
@@ -161,7 +161,7 @@ ul li:hover > .dropdown {
 }
 
 .p1, .p2{
-    font-family: 'krub';
+    font-family: 'DejaVu Sans Condensed';
     color: #545454;
     text-align: center;
 }
@@ -180,7 +180,7 @@ ul li:hover > .dropdown {
 .image1 > h1{
     position: absolute;
     z-index: 1;
-    font-family: 'Agraham';
+    font-family: 'DejaVu Sans Condensed';
     text-transform: capitalize;
     color: #FFFFFF;
     text-align: center;
@@ -208,7 +208,7 @@ ul li:hover > .dropdown {
 }
 
 .statistics > p{
-    font-family: 'Albertus Medium';
+    font-family: 'DejaVu Sans Condensed';
     color: #545454;
     margin: 0;
 }
@@ -237,26 +237,26 @@ ul li:hover > .dropdown {
 }
 
 .info1 > h1{
-    font-family: 'Agraham';
+    font-family: 'DejaVu Sans Condensed';
     color: #FFFFFF;
     text-transform: uppercase;
 }
 
 .info1 > p{
-    font-family: 'krub';
+    font-family: 'DejaVu Sans Condensed';
     color: #FFFFFF;
     text-align: justify;
 }
 
 .info2 > h1{
-    font-family: 'Agraham';
+    font-family: 'DejaVu Sans Condensed';
     color: #FFFFFF;
     text-transform: uppercase;
     text-align: end;
 }
 
 .info2 > p{
-    font-family: 'krub';
+    font-family: 'DejaVu Sans Condensed';
     color: #FFFFFF;
     text-align: end;
 }
