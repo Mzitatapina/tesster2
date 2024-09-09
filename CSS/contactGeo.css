@@ -94,7 +94,7 @@ li{
 }
 
 a{
-    font-family: 'Albertus Medium';
+    font-family: 'DejaVu Sans Condensed';
     text-transform: uppercase;
     text-decoration: none;
     color:  #4E4E4E;  
@@ -162,7 +162,7 @@ ul li:hover > .dropdown {
 }
 
 h1{
-    font-family: 'Playfair Display';
+    font-family: 'DejaVu Sans Condensed';
     color: #424242;
     font-weight: 100;
     text-align: left;
@@ -170,7 +170,7 @@ h1{
 }
 
 h3{
-    font-family: 'Playfair Display';
+    font-family: 'DejaVu Sans Condensed';
     color: #424242;
     font-weight: 800;
     text-align: left;
@@ -239,7 +239,7 @@ iframe{
 }
 
 p{
-    font-family: 'Playfair Display';
+    font-family: 'DejaVu Sans Condensed';
     color: #545454;
     text-align: left;
 }
