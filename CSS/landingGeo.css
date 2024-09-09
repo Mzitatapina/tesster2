@@ -240,7 +240,7 @@ ul li:hover > .dropdown {
     font-family: 'DejaVu Sans Condensed';
     font-weight: 100;
     font-size: 250%;
-    line-height: 45%;
+    line-height: 1;
     color: #FFFFFF;
 }
 
