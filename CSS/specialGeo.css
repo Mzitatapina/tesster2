@@ -7,11 +7,7 @@
     font-weight: 100;
     src: local('Albertus Medium'), url('../fonts/Albertus Medium Regular.woff') format('woff');
     }
-
-@font-face {
-        font-family: 'Elguja';
-        src: url('https://www.fontsaddict.com/fontface/elguja.ttf');
-}
+@import url("//cdn.web-fonts.ge/fonts/bpg-dedaena-nonblock/css/bpg-dedaena-nonblock.min.css");
 
 html, body{
     margin: 0;
@@ -33,7 +29,7 @@ h1{
 
 
 h2{
-    font-family: 'Elguja';
+    font-family: 'BPG DedaEna Nonblock', sans-serif;
     text-transform: capitalize;
     color: #FFFFFF;
     font-weight: 100;
