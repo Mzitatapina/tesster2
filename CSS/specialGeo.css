@@ -8,6 +8,11 @@
     src: local('Albertus Medium'), url('../fonts/Albertus Medium Regular.woff') format('woff');
     }
 
+@font-face {
+        font-family: 'Elguja';
+        src: url('https://www.fontsaddict.com/fontface/elguja.ttf');
+}
+
 html, body{
     margin: 0;
     padding: 0;
@@ -28,7 +33,7 @@ h1{
 
 
 h2{
-    font-family: 'DM-Batonishvili';
+    font-family: 'Elguja';
     text-transform: capitalize;
     color: #FFFFFF;
     font-weight: 100;
