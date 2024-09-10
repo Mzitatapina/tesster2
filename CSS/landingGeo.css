@@ -293,7 +293,7 @@ ul li:hover > .dropdown {
 .scroll{
     display: block;
     margin-left: 50%;
-    margin-top: 8%;
+    margin-top: 7.5%;
     transition: transform 1s ease-in-out;
 }
 
