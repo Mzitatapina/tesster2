@@ -175,7 +175,10 @@ section{
     padding-bottom: 5%;
 }
 
-
+.heading{
+    font-family: "Albertus Medium";
+    color: #4E4E4E;
+}
 
 .news-container{
     display: flex;
