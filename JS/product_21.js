@@ -68,29 +68,26 @@ function addOpenModalListener(buttonId, modalId) {
 
 // Add event listeners to open the modals
 addOpenModalListener("openModalBtn1", "productModal1");
-addOpenModalListener("openModalBtn1_1", "productModal1_1");
-addOpenModalListener("openModalBtn1_2", "productModal1_2");
-addOpenModalListener("openModalBtn1_3", "productModal1_3");
 addOpenModalListener("openModalBtn2", "productModal2");
-addOpenModalListener("openModalBtn2_1", "productModal2_1");
-addOpenModalListener("openModalBtn2_2", "productModal2_2");
-addOpenModalListener("openModalBtn2_3", "productModal2_3");
 addOpenModalListener("openModalBtn3", "productModal3");
-addOpenModalListener("openModalBtn3_1", "productModal3_1");
-addOpenModalListener("openModalBtn3_2", "productModal3_2");
-addOpenModalListener("openModalBtn3_3", "productModal3_3");
 addOpenModalListener("openModalBtn4", "productModal4");
-addOpenModalListener("openModalBtn4_1", "productModal4_1");
-addOpenModalListener("openModalBtn4_2", "productModal4_2");
-addOpenModalListener("openModalBtn4_3", "productModal4_3");
 addOpenModalListener("openModalBtn5", "productModal5");
-addOpenModalListener("openModalBtn5_1", "productModal5_1");
-addOpenModalListener("openModalBtn5_2", "productModal5_2");
-addOpenModalListener("openModalBtn5_3", "productModal5_3");
 addOpenModalListener("openModalBtn6", "productModal6");
-addOpenModalListener("openModalBtn6_1", "productModal6_1");
-addOpenModalListener("openModalBtn6_2", "productModal6_2");
-addOpenModalListener("openModalBtn6_3", "productModal6_3");
+addOpenModalListener("openModalBtn7", "productModal7");
+addOpenModalListener("openModalBtn8", "productModal8");
+addOpenModalListener("openModalBtn9", "productModal9");
+addOpenModalListener("openModalBtn10", "productModal10");
+addOpenModalListener("openModalBtn11", "productModal11");
+addOpenModalListener("openModalBtn12", "productModal12");
+addOpenModalListener("openModalBtn13", "productModal13");
+addOpenModalListener("openModalBtn14", "productModal14");
+addOpenModalListener("openModalBtn15", "productModal15");
+addOpenModalListener("openModalBtn16", "productModal16");
+addOpenModalListener("openModalBtn17", "productModal17");
+addOpenModalListener("openModalBtn18", "productModal18");
+addOpenModalListener("openModalBtn19", "productModal19");
+addOpenModalListener("openModalBtn20", "productModal20");
+
 
 
 
