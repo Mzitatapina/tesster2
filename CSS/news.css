@@ -164,7 +164,6 @@ ul li:hover > .dropdown {
 
 
 section{
-    background-color: #EDEDEB;
     margin: 5% 10%;
 }
 
@@ -200,6 +199,7 @@ section{
 .news h1{
     text-align: left;
     font-family: "Italiana";
+    line-height: 1;
 }
 
 .info{
