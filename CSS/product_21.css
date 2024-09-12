@@ -186,6 +186,7 @@ section{
     margin-left: 20%;
     margin-right: 20%;
     margin-bottom: 2%;
+    margin-top: 3%;
     font-size: 14px;
     color: #545454;
 }
@@ -193,7 +194,7 @@ section{
 .heading{
     align-items: center;
     text-align: center;
-    margin-top: 3%;
+    margin-top: 5%;
     margin-bottom: 2%;
 }
 
@@ -207,7 +208,6 @@ section{
     margin-left: 5%;
     margin-right: 5%;
     margin-top: 3%;
-    margin-bottom: 3%;
 }
 
 .ModalButton{
@@ -357,13 +357,13 @@ section{
     max-width: 100%;
 }*/
 
-.ProductAssort{
+/*.ProductAssort{
     display: grid;
     grid-template-columns: 33.33% 33.33% 33.33%;
-    justify-items: start; /* Aligns the images to the left */
-    align-items: end; /* Positions the images at the bottom */
+    justify-items: start; 
+    align-items: end; 
     transform: translateX(-10%);
-}
+}*/
 
 .first, .second, .third{
     width: 100%;
