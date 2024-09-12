@@ -201,6 +201,11 @@ section{
     margin-left: 10%;
 }
 
+.heading{
+    align-items: center;
+    text-align: center;
+}
+
 .set{
     display: grid;
     grid-template-columns: 50% 50%;
