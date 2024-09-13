@@ -6,7 +6,7 @@
     font-family: 'Geo Script';
     font-style: normal;
     font-weight: 100;
-    src: local('Albertus Medium'), url('../fonts/g_script.woff') format('woff');
+    src: local('Geo Script'), url('../fonts/g_script.woff') format('woff');
     }
 
 html, body{
