@@ -238,6 +238,7 @@ section{
     width: 70%;
     height: 95%;
     align-items: center;
+    padding-right: 10%;
 }
 
 
@@ -256,13 +257,14 @@ section{
 
 .container{
     padding-top: 5%;
+    margin-left: 5%;
 }
 
 .container h4{
     line-height: 1;
     text-align: left;
     text-transform: capitalize;
-    margin-bottom: 0;
+    margin-bottom: 5%;
 
 }
 
