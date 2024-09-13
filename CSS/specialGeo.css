@@ -3,10 +3,10 @@
 @import url('https://fonts.googleapis.com/css2?family=Playfair+Display:ital,wght@0,400..900;1,400..900&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Pinyon+Script&display=swap');
 @font-face {
-    font-family: 'Albertus Medium';
+    font-family: 'Geo Script';
     font-style: normal;
     font-weight: 100;
-    src: local('Albertus Medium'), url('../fonts/Albertus Medium Regular.woff') format('woff');
+    src: local('Albertus Medium'), url('../fonts/g_script.woff') format('woff');
     }
 
 html, body{
