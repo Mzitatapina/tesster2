@@ -8,7 +8,6 @@
     font-weight: 100;
     src: local('Albertus Medium'), url('../fonts/Albertus Medium Regular.woff') format('woff');
     }
-@import url("//cdn.web-fonts.ge/fonts/bpg-dedaena-nonblock/css/bpg-dedaena-nonblock.min.css");
 
 html, body{
     margin: 0;
