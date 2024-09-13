@@ -27,8 +27,8 @@ h1, h4{
 
 p{
     font-family: 'DejaVu Sans Condensed', sans-serif;
-    font-size: smaller;
     color: #545454;
+    margin-top: 0;
 }
 
 
@@ -268,7 +268,8 @@ section{
     padding-top: 7%;
 }
 
-.ModalButton > h4{
+.ModalButton > h3{
+    font-family: 'DejaVu Sans Condensed';
     margin-bottom: 0;
 }
 
