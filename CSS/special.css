@@ -355,10 +355,10 @@ ul li:hover > .dropdown {
     }
 
 
-    .logo{
-        height: 50%;
-        width: 50%;
-        padding-top: 25%;
+    .logo {
+        height: 60%;
+        width: 60%;
+        padding-top: 20%;
     }
   
     .languagebar {
@@ -376,7 +376,7 @@ ul li:hover > .dropdown {
     ul{
         padding-left: 2%;
     }
-
+    
     .slider-container{
         position: absolute;
         margin-bottom: 0;
