@@ -270,6 +270,10 @@ section > img{
         margin-top: 5%;
     }
 
+    a{
+        font-size: 0.4em;
+    }
+
     h1{
         font-size: 0.8em;
     }
