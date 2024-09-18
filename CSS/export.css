@@ -289,6 +289,10 @@ h1{
 }
 
 @media screen and (max-width: 768px) {
+    #bottom{
+        padding-top: 0;
+    }
+    
     .languagebar p {
         font-size: 5px;
     }
