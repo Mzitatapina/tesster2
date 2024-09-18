@@ -253,6 +253,10 @@ section > img{
 }
 
 @media screen and (max-width: 768px) {
+    #bottom{
+        padding-top: 0;
+    }
+    
     .languagebar p {
         font-size: 5px;
     }
@@ -274,8 +278,13 @@ section > img{
         font-size: 0.4em;
     }
 
+    section{
+        margin-top: 10%;
+    }
+    
     h1{
         font-size: 0.8em;
+        margin-top: 10%;
     }
 
     h3{
