@@ -598,7 +598,6 @@ button:hover{
 
 @media screen and (max-width: 768px) {
 
-
     .phoni{
         position: absolute;
         height: auto; 
@@ -618,13 +617,19 @@ button:hover{
     nav{
         padding-left: 5%;
     }
+
+    ul{
+        display: flex;
+        gap: 3%;
+        list-style-type: none;
+    }
   
     li a{
-        font-size: 0.5em;
+        font-size: 0.4em;
     }
 
     .logo{
-        padding-top: 15%
+        padding-top: 20%
     }
     
     .firstline{
@@ -731,12 +736,18 @@ button:hover{
         padding-left: 5%;
     }
 
+    ul{
+        display: flex;
+        gap: 3%;
+        list-style-type: none;
+    }
+  
     li a{
-        font-size: 0.5em;
+        font-size: 0.4em;
     }
 
     .logo{
-        padding-top: 15%
+        padding-top: 20%
     }
     
     .maininfo{
