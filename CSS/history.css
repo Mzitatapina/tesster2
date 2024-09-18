@@ -302,6 +302,12 @@ h1{
 }
 
 @media screen and (max-width: 768px){
+    
+    ul{
+        display: flex;
+        gap: 4%;
+        list-style-type: none;
+    }
     .languagebar{
         font-size: 3px;
         padding-top: 3%;
@@ -353,6 +359,7 @@ h1{
 }
 
 @media screen and (max-width: 480px){
+    
     .languagebar{
         font-size: 5px;
         display: inline;
