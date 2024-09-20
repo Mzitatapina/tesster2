@@ -474,9 +474,6 @@ section{
         width: 0.8em;
     }
 
-    .maininfo{
-        font-size: xx-small;
-    }
 
     .premium, .classic{
         max-width: 100vw;
@@ -512,9 +509,13 @@ section{
     .ModalButton p{
         font-size: 1px;
     }
+    .modal-content{
+        margin: 45% auto;
+        width: 65%;
+    }
 
     .AboutProduct, .AboutProduct2{
-        font-size: 5px;
+        font-size: 0.4em;
     }
 
     p{
