@@ -452,16 +452,17 @@ section{
         font-size: 5px;
     }
 
-    li > a{ 
-        font-size: 0.4em;
-    }
-
     nav{
         padding-left: 0;
     }
 
     ul{
         padding-left: 2%;
+        gap: 3%
+    }
+
+    li > a{ 
+        font-size: 0.4em;
     }
 
     .ProductBackground img{

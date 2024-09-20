@@ -419,9 +419,9 @@ section{
 @media screen and (max-width: 768px) {
 
     .logo {
-        height: 50%;
-        width: 50%;
-        padding-top: 25%;
+        height: 60%;
+        width: 60%;
+        padding-top: 15%;
     }
   
     .languagebar {
@@ -438,6 +438,7 @@ section{
 
     ul{
         padding-left: 2%;
+        gap: 3%
     }
 
 
@@ -478,7 +479,7 @@ section{
     }
 
     .ModalButton{
-        width: 24%;
+        width: 18%;
     }
 
     .ModalButton h4{
@@ -489,8 +490,13 @@ section{
         font-size: 1px;
     }
 
+    .modal-content{
+        margin: 45% auto;
+        width: 65%;
+    }
+
     .AboutProduct, .AboutProduct2{
-        font-size: 5px;
+        font-size: 0.4em;
     }
 
     p{
@@ -499,6 +505,7 @@ section{
 
     .productDescreption h1{
         font-size: 0.5em;
+        line-height: 0.7;
     }
 
     .productDescreption p{
