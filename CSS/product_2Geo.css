@@ -19,13 +19,13 @@ html, body{
 
 h1, h4{
     text-transform: uppercase;
-    font-family: 'play fair';
+    font-family: 'DejaVu Sans Condensed';
     line-height: 0%;
     color: #101010;
 }
 
 p{
-    font-family: 'krub', sans-serif;
+    font-family: 'DejaVu Sans Condensed';
     font-size: smaller;
     color: #545454;
 }
@@ -79,7 +79,7 @@ li{
 }
 
 a{
-    font-family: 'Albertus Medium';
+    font-family: 'DejaVu Sans Condensed';
     text-transform: uppercase;
     text-decoration: none;
     color:  #4E4E4E;  
@@ -298,14 +298,14 @@ section{
 
 .image > h2{
     text-align: center;
-    font-family: 'Playfair Display';
+    font-family: 'DejaVu Sans Condensed';
     font-weight: 100;
     color: #101010;
 }
 
 .productDescreption > h1{
     text-align: left;
-    font-family: 'Playfair Display';
+    font-family: 'DejaVu Sans Condensed';
     font-weight: 100;
     color: #101010;
     font-size: 36px;
@@ -314,7 +314,7 @@ section{
     
 
 #product1{
-    font-family: 'Playfair Display';
+    font-family: 'DejaVu Sans Condensed';
     font-weight: 100;
     color: #545454;
     text-align: left;
@@ -325,7 +325,7 @@ section{
 
 .productDescreption > p{
     text-align: left;
-    font-family: 'krub';
+    font-family: 'DejaVu Sans Condensed';
     color:#545454;
     font-size: 14px;
     text-align: justify;
@@ -396,7 +396,7 @@ section{
 
 
 .footer p {
-    font-family: 'Krub';
+    font-family: 'DejaVu Sans Condensed';
     text-align: center;
     margin-bottom: 3%;
 }
@@ -417,7 +417,7 @@ section{
     border: 1px groove #FFFFFF;
     border-radius: 11.5%;
     padding: 0.5% 1.5%;
-    font-family: 'Albertus Medium';
+    font-family: 'DejaVu Sans Condensed';
     font-weight: 100;
     font-size: 15px;
     text-transform: uppercase;
@@ -460,7 +460,7 @@ section{
 }
 
 .first p, .second p, .third p, .forth p {
-    font-family: 'Albertus Medium';
+    font-family: 'DejaVu Sans Condensed';
     color: #FFFFFF;
     margin:0;
     padding: 0;
@@ -472,11 +472,15 @@ section{
     .logo {
         height: 60%;
         width: 60%;
-        padding-top: 20%;
+        padding-top: 15%;
     }
   
     .languagebar {
         font-size: 5px;
+    }
+
+    li > a{ 
+        font-size: 0.4em;
     }
 
     nav{
@@ -488,9 +492,7 @@ section{
         gap: 3%
     }
 
-    li > a{ 
-        font-size: 0.4em;
-    }
+
 
     .ProductBackground img{
         height: auto;
@@ -501,16 +503,12 @@ section{
         width: 0.8em;
     }
 
-    .maininfo{
-        font-size: xx-small;
-    }
 
-    .premium, .classic{
+    .products{
         max-width: 100vw;
-        margin-left: 2%;
-        margin-right: 2%;
+        margin-left: 5%;
+        margin-right: 5%;
     }
-
 
     h1{
         font-size: 60%;
@@ -529,7 +527,7 @@ section{
     }
 
     .ModalButton{
-        width: 24%;
+        width: 18%;
     }
 
     .ModalButton h4{
@@ -540,8 +538,14 @@ section{
         font-size: 1px;
     }
 
+    .modal-content{
+        margin: 45% auto;
+        width: 65%;
+    }
+
     .AboutProduct, .AboutProduct2{
-        font-size: 5px;
+        font-size: 0.5em;
+        margin-bottom: 5%;
     }
 
     p{
@@ -550,6 +554,7 @@ section{
 
     .productDescreption h1{
         font-size: 0.5em;
+        line-height: 0.7;
     }
 
     .productDescreption p{
@@ -573,6 +578,4 @@ section{
         font-size: 3px;
     }
 }
-
-
 
