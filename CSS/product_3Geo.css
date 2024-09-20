@@ -419,9 +419,9 @@ section{
 @media screen and (max-width: 768px) {
 
     .logo {
-        height: 60%;
-        width: 60%;
-        padding-top: 20%;
+        height: 50%;
+        width: 50%;
+        padding-top: 25%;
     }
   
     .languagebar {
