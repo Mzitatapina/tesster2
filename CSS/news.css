@@ -316,10 +316,10 @@ section{
 
 @media screen and (max-width: 768px) {
 
-    .logo{
-        height: 50%;
-        width: 50%;
-        padding-top: 25%;
+    .logo {
+        height: 60%;
+        width: 60%;
+        padding-top: 15%;
     }
   
     .languagebar {
@@ -327,7 +327,7 @@ section{
     }
 
     li > a{ 
-        font-size: 0.5em;
+        font-size: 0.4em;
     }
 
     nav{
@@ -336,8 +336,8 @@ section{
 
     ul{
         padding-left: 2%;
+        gap: 3%
     }
-
     .ProductBackground img{
         height: auto;
         width: 100vw;
