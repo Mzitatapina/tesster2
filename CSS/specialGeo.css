@@ -124,14 +124,14 @@ ul li .dropdown li {
 }
 
 .dropdowna{
-    font-size: 130%;
+    font-size: 1.3em;
     text-transform: capitalize;
     padding: 5% 0%;
     color: #FFFF;
 }
 
 .dropdownb{
-    font-size: 100%;
+    font-size: 1em;
     text-transform: capitalize;
     padding-left: 17px;
     color: #FFFF;
@@ -335,10 +335,10 @@ ul li:hover > .dropdown {
     }
 
 
-    .logo{
-        height: 50%;
-        width: 50%;
-        padding-top: 25%;
+    .logo {
+        height: 60%;
+        width: 60%;
+        padding-top: 15%;
     }
   
     .languagebar {
@@ -355,6 +355,7 @@ ul li:hover > .dropdown {
 
     ul{
         padding-left: 2%;
+        gap: 2%
     }
 
     .slider-container{
@@ -369,8 +370,9 @@ ul li:hover > .dropdown {
     }
 
     .products{
-        transform: translateY(50vh);
-        height: 30vh;
+        /*transform: translateY(50vh);
+        height: 30vh;*/
+        display: none;
     }
 
     .prev, .next{
