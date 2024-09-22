@@ -108,14 +108,14 @@ ul li .dropdown li {
 }
 
 .dropdowna{
-    font-size: 120%;
+    font-size: 1.3em;
     text-transform: capitalize;
     padding: 5% 0%;
     color: #FFFF;
 }
 
 .dropdownb{
-    font-size: 100%;
+    font-size: 1em;
     text-transform: capitalize;
     padding-left: 17px;
     color: #FFFF;
