@@ -595,7 +595,7 @@ button:hover{
     }
 
     .languagebarcover2{
-        display: inline-block;
+        display: block !important;
         background-color: rgb(46, 46, 46, 0.8);
     }
     .languagebarcover2 a{
