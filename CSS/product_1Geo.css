@@ -202,6 +202,7 @@ section{
     text-align: center;
     text-transform: capitalize;
     color: #545454;
+    font-family: 'DejaVu Sans Condensed';
     font-weight: 100;
     margin-bottom: 5%;
 }
