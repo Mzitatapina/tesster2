@@ -622,6 +622,32 @@ button:hover{
     .languagebarcover{
         display: none;
     }
+
+    .languagebarcover2{
+        display: block;
+        z-index: 200;
+        background-color: rgb(46, 46, 46, 0.8);
+    }
+    .languagebarcover2 a{
+        text-decoration: none;
+        text-align: center;
+    }
+    
+    .languagebar{
+        color: #97A52F;
+        font-weight: 600;
+        display: inline-block;
+        padding-left: 15%;
+        font-size: 5px;
+        padding-top: 2%;
+    }
+    
+    
+    header{
+        border-bottom: 1px solid #FFFFFF;
+        display: grid;
+        grid-template-columns: 10% 20% 70%;
+    }
       
     
     .logo {
@@ -736,8 +762,34 @@ button:hover{
         display:none;
       }
 
-    .languagebarcover{
-        display: none;
+      .languagebarcover{
+        display:none;
+    }
+
+    .languagebarcover2{
+        display: block !important;
+        z-index: 200;
+        background-color: rgb(46, 46, 46, 0.8);
+    }
+    .languagebarcover2 a{
+        text-decoration: none;
+        text-align: center;
+    }
+    
+    .languagebar{
+        color: #97A52F;
+        font-weight: 600;
+        display: inline-block;
+        padding-left: 15%;
+        font-size: 5px;
+        padding-top: 2%;
+    }
+    
+    
+    header{
+        border-bottom: 1px solid #FFFFFF;
+        display: grid;
+        grid-template-columns: 10% 20% 70%;
     }
       
     /*.languagebar a{
