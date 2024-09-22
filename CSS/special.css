@@ -375,10 +375,10 @@ ul li:hover > .dropdown {
 
     ul{
         padding-left: 2%;
+        gap: 2%
     }
-    
+
     .slider-container{
-        position: absolute;
         margin-bottom: 0;
         height: 120%;
     }
@@ -386,11 +386,6 @@ ul li:hover > .dropdown {
     .sliderbackground{
         width: 100%;
 
-    }
-
-    .products{
-        transform: translateY(50vh);
-        height: 30vh;
     }
 
     .prev, .next{
@@ -409,11 +404,11 @@ ul li:hover > .dropdown {
         font-size: 3px;
     }
 
-    .p1, .p2{
-        font-size: 3px;
+    .text{
+        display: none;
     }
 
     .products{
-        margin-top: 10%;
+        padding: 35% 5%;
     }
 }
