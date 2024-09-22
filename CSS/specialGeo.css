@@ -358,7 +358,6 @@ ul li:hover > .dropdown {
     }
 
     .slider-container{
-        position: absolute;
         margin-bottom: 0;
         height: 120%;
     }
@@ -368,11 +367,7 @@ ul li:hover > .dropdown {
 
     }
 
-    .products{
-        /*transform: translateY(50vh);
-        height: 30vh;*/
-        display: none;
-    }
+    
 
     .prev, .next{
         padding: 0;
@@ -390,11 +385,11 @@ ul li:hover > .dropdown {
         font-size: 3px;
     }
 
-    .p1, .p2{
-        font-size: 3px;
+    .text{
+        display: none;
     }
 
     .products{
-        margin-top: 10%;
+        padding-top: 15%;
     }
 }
