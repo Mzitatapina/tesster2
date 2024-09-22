@@ -620,17 +620,29 @@ button:hover{
     }
       
     
-    nav{
-        padding-left: 5%;
+    .logo {
+        height: 60%;
+        width: 60%;
+        padding-top: 15%;
     }
   
-    li a{
-        font-size: 0.5em;
+    .languagebar {
+        font-size: 5px;
     }
 
-    .logo{
-        padding-top: 15%
+    li > a{ 
+        font-size: 0.4em;
     }
+
+    nav{
+        padding-left: 0;
+    }
+
+    ul{
+        padding-left: 2%;
+        gap: 3%
+    }
+
     
     .firstline{
     font-size: 7px;
