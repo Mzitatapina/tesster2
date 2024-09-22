@@ -39,15 +39,19 @@ html, body{
     background-color: rgba(0, 0, 0, 0.2);
 }
 
-/*.languagebarcover{
+.languagebarcover2{
+    display: none;
+}
+
+.languagebarcover{
     position: absolute;
     height: 100%;
     width: 7%;
     z-index: 100;
-}*/
+}
 
 
-/*.languagebar{
+.languagebar{
     display: block;
     background-color: rgb(46,46,46, 0.8);
     display: flex;
@@ -68,7 +72,7 @@ html, body{
 
 .languagebar p{
     color: #97A52F;
-}*/
+}
 
 .content-container{
     position: relative;
@@ -84,37 +88,14 @@ html, body{
     background-repeat: no-repeat;
 }*/
 
-.languagebarcover{
-    background-color: rgb(46, 46, 46, 0.8);;
-}
-.languagebarcover a{
-    text-decoration: none;
-    text-align: center;
-}
-
-.languagebar{
-    color: #97A52F;
-    font-weight: 600;
-    display: inline-block;
-    padding-left: 15%;
-    font-size: 15px;
-    padding-top: 2%;
-}
-
 
 
 header{
     border-bottom: 1px solid #FFFFFF;
     display: grid;
-    grid-template-columns: 10% 20% 70%;
-}
-
-/*header{
-    border-bottom: 1px solid #FFFFFF;
-    display: grid;
     grid-template-columns: 20% 80%;  
     padding-top: 0.5%; 
-}*/
+}
 
 
 .logo{
@@ -207,14 +188,7 @@ ul li:hover > .dropdown {
     padding: 10px; 
     min-width: 180px; 
 }
-  
-/*.dropdown li:hover > .dropdown-submenu {
-    display: block;
-    max-height: 150px; 
-    opacity: 1;
-    margin-top: 0; 
-    margin-left: 20px;
-}*/
+
 
 .dropdown li:last-child, .dropdown-submenu li:last-child {
 	border-bottom: none;
@@ -617,7 +591,31 @@ button:hover{
     }
 
     .languagebarcover{
-        display: none;
+        display:none;
+    }
+
+    .languagebarcover2{
+        background-color: rgb(46, 46, 46, 0.8);;
+    }
+    .languagebarcover2 a{
+        text-decoration: none;
+        text-align: center;
+    }
+    
+    .languagebar{
+        color: #97A52F;
+        font-weight: 600;
+        display: inline-block;
+        padding-left: 15%;
+        font-size: 5px;
+        padding-top: 2%;
+    }
+    
+    
+    header{
+        border-bottom: 1px solid #FFFFFF;
+        display: grid;
+        grid-template-columns: 10% 20% 70%;
     }
       
     
