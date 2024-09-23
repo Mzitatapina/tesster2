@@ -317,15 +317,15 @@ h1{
     }
 
     .logo{
-        padding-top: 3%;
+        padding-top: 2%;
     }
 
     .dropdowna{
-        font-size: 0.4em;
+        font-size: 1.2em;
     }
     
     .dropdownb{
-        font-size: 0.4em;
+        font-size: 1em;
     }
 
     .image1 > img{
@@ -360,7 +360,7 @@ h1{
     }
 
     .logo{
-        padding-top: 20%;
+        padding-top: 2%;
     }
 
     li > a{
@@ -376,11 +376,11 @@ h1{
     }
 
     .dropdowna{
-        font-size: 0.5em;
+        font-size: 1.2em;
     }
     
     .dropdownb{
-        font-size: 0.5em;
+        font-size: 1em;
     }
 
     .image1 > img{
