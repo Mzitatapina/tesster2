@@ -625,8 +625,6 @@ button:hover{
 
     .languagebarcover2{
         display: inline-flex;
-        transform: translateY(-2%);
-        z-index: 200;
     }
 
     .languagebarcover2 a{
@@ -766,8 +764,8 @@ button:hover{
         z-index: 200;
         height: 105%;
         transform: translateY(-3%);
-        background-color: rgb(46, 46, 46, 0.8);
     }
+
     .languagebarcover2 a{
         text-decoration: none;
         text-align: center;
@@ -776,9 +774,8 @@ button:hover{
     .languagebar{
         color: #97A52F;
         font-weight: 600;
-        padding-top: 65%;
         font-size: 5px;
-        padding: 1em;
+        padding: 6em 1em;
     }
     
     
@@ -811,8 +808,8 @@ button:hover{
     .logo{
         width: 80%;
         height: 80%;
-        padding-top: 10%;
-        padding-left: 5%;
+        padding-top: 5%;
+        padding-left: 15%;
     }
     
     .maininfo{
