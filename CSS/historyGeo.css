@@ -305,7 +305,8 @@ h1{
 @media screen and (max-width: 768px){
     .languagebar{
         font-size: 3px;
-        padding-top: 25%;
+        display: block;
+        padding-top: 20%;
     }
     
     nav{
@@ -356,8 +357,8 @@ h1{
 @media screen and (max-width: 480px){
     .languagebar{
         font-size: 5px;
-        display: inline;
-        padding-top: 25%;
+        display: block;
+        padding-top: 20%;
     }
 
     .logo{
