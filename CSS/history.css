@@ -310,7 +310,7 @@ h1{
     }
     .languagebar{
         font-size: 3px;
-        padding-top: 20%;
+        padding-top: 30%;
     }
     
     nav{
@@ -322,7 +322,7 @@ h1{
     }
 
     .logo{
-        padding-top: 13%;
+        padding-top: 14%;
     }
 
     .dropdowna{
@@ -363,11 +363,11 @@ h1{
     .languagebar{
         font-size: 5px;
         display: inline;
-        padding-top: 20%;
+        padding-top: 30%;
     }
 
     .logo{
-        padding-top: 13%;
+        padding-top: 14%;
     }
 
     li > a{
