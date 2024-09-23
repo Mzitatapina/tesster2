@@ -636,7 +636,8 @@ button:hover{
 
     ul{
         padding-left: 2%;
-        gap: 3%
+        padding-top: 1%;
+        gap: 3%;
     }
 
     
@@ -770,6 +771,7 @@ button:hover{
     }
 
     ul{
+        padding-top: 1%;
         gap: 2%;
     }
 
