@@ -649,8 +649,8 @@ button:hover{
       
     
     .logo {
-        height: 60%;
-        width: 60%;
+        height: 70%;
+        width: 70%;
         padding-top: 15%;
     }
 
@@ -664,7 +664,7 @@ button:hover{
 
     ul{
         padding-left: 2%;
-        padding-top: 2.5%;
+        padding-top: 2%;
         gap: 3%
     }
 
@@ -799,7 +799,7 @@ button:hover{
     }
 
     ul{
-        padding-top: 2.5%;
+        padding-top: 2%;
         gap: 2%;
     }
 
