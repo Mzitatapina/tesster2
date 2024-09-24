@@ -702,7 +702,7 @@ button:hover{
 
 
     .maininfo p{
-        font-size: 6px;
+        font-size: 0.2em;
     }
 
     h4{
@@ -828,7 +828,7 @@ button:hover{
 
 
     .maininfo p{
-        font-size: 3px;
+        font-size: 0.2em;
     }
 
     .prev, .next{
